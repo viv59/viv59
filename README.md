@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Gaikwad</h1>
-<h3 align="center">A passionate full stack web developer from India!</h3>
+<h3 align="center">A passionate full stack web developer from India 🇮🇳 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viv59" alt="viv59" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [blank](blank)
 
