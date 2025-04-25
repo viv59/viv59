@@ -2,9 +2,11 @@
 <!-- <h3 align="center">A passionate full stack web developer from India 🇮🇳 </h3> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=800&lines=A+passionate+full+stack+web+developer+from+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=+++++++A+passionate+full+stack+web+developer+from+India" alt="Typing SVG" />
   </a>
 </p>
+
+
 
 
 - 📫 How to reach me **viveksgaikwad24@gmail.com**
