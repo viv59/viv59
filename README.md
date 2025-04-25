@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivek Gaikwad</h1>
-<h3 align="center">A passionate full stack web developer from India 🇮🇳 </h3>
+<!-- <h3 align="center">A passionate full stack web developer from India 🇮🇳 </h3> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=800&lines=A+passionate+full+stack+web+developer+from+India" alt="Typing SVG" />
+  </a>
+</p>
+
 
 - 📫 How to reach me **viveksgaikwad24@gmail.com**
 
